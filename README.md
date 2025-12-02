@@ -32,17 +32,22 @@ Languages and tools I work with regularly:
 
 ```Plain Text
 Python
-ReimeiBot (A QQ bot based on NoneBot2)
 ```
 
 ```Plain Text
 C
-StaryuuDOS (Easy EFI Disk OS)
 ```
 
 ```Plain Text
 C++
-Sinrana (Chatting software)
+```
+
+```Plain Text
+Linux
+```
+
+```Plain Text
+VMware Workstation
 ```
 
 Specializing in: 

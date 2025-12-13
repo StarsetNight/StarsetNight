@@ -60,10 +60,6 @@ Specializing in:
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 ![Field](https://img.shields.io/badge/Field-Open%20Source-blue)
 
-<a href="https://github.com/StarsetNight"><img align="center" src="https://github-readme-stats-eight-beryl-91.vercel.app/api?username=StarsetNight&show_icons=true&include_all_commits=true&hide_border=true" alt="StarsetNight" /></a>
-
-<a href="https://github.com/StarsetNight"><img align="center" src="https://github-readme-stats-eight-beryl-91.vercel.app/api/top-langs/?username=StarsetNight&layout=compact&hide_border=true" /></a>
-
 # 🌟 Open-Source Contributions
 
 Currently building and maintaining personal projects focused on EFI DOS. Check out my repositories for details, and feel free to fork or contribute!

@@ -2,7 +2,7 @@
 
 # 👋 About Me
 
-A passionate Senior High School Sophomore and open-source enthusiast with a strong focus on software engineering, network operations, and cybersecurity. Dedicated to bridging theoretical knowledge with practical development experience, and committed to contributing to the open-source community through high-quality code and collaborative projects.
+Senior Three student & open-source enthusiast specializing in software engineering, network ops and cybersecurity. I combine academic theory with real-world development, contributing quality code and collaborative work to open source.
 
 ## Core Competencies
 

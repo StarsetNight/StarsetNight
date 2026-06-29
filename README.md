@@ -62,7 +62,7 @@ Specializing in:
 
 # 🌟 Open-Source Contributions
 
-Currently building and maintaining personal projects focused on EFI DOS. Check out my repositories for details, and feel free to fork or contribute!
+Currently building and maintaining personal projects focused on NoneBot plugin. Check out my repositories for details, and feel free to fork or contribute!
 
 # 📖 Personal Motto
 
